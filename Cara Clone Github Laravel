@@ -1,11 +1,12 @@
 Clone laravel
 
 1. git clone git@gitlab.com:yuda-dev/evoting.git
-2. cp .env.example .env / copy .env.example .env
-3. composer install
-4. php artisan key:generate
-5. Konfigurasi Database di .env
-6. php artisan migrate
-7. php artisan db:seed
-8. composer dump-autoload
-9. php artisan serve
+2. cd folder-project
+3. cp .env.example .env / copy .env.example .env
+4. composer install
+5. php artisan key:generate
+6. Konfigurasi Database di .env
+7. php artisan migrate
+8. php artisan db:seed
+9. composer dump-autoload
+10. php artisan serve

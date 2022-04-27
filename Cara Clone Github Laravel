@@ -1,6 +1,6 @@
 Clone laravel
 
-1. git clone git@gitlab.com:yuda-dev/evoting.git
+1. git clone https://github.com/bambangkusnendiapr/laravel-imath-2.git
 2. cd folder-project
 3. cp .env.example .env / copy .env.example .env
 4. composer install
